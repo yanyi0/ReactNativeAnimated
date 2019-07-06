@@ -1,0 +1,17 @@
+{
+  "name": "redux-example",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "0.55.4",
+    "react-native-gesture-handler": "1.0.14",
+    "react-navigation": "^3.11.0",
+    "react-redux": "6.0.1",
+    "redux": "4.0.1"
+  }
+}
